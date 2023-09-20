@@ -1,4 +1,7 @@
 /** @format */
 
-// Printing out a message
-console.log('Git is Awesome!');
+// Requesting input from the user
+
+const UserInput = prompt('Enter a message here');
+
+console.log(UserInput);
